@@ -5,3 +5,4 @@ chartSeries(IBM)
 addMACD()  
 addEMA(7)  
 addRSI(n=14) 
+
